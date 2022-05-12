@@ -1,7 +1,7 @@
 # layoutlmv3_cord
 Fine tune LayoutLMV3 on CORD dataset for receipt understanding
 
-User LayoutLMV3 implementation from https://github.com/NielsRogge/transformers/tree/add_layoutlmv3
+I Used the LayoutLMV3 implementation from https://github.com/NielsRogge/transformers/tree/add_layoutlmv3
 
 ## Results
 | Dataset    | F1 Score | Precision | Recall |
